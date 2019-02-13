@@ -1,3 +1,5 @@
+fork project,不足之处: webpack很多不全，如：按需加载，文件chunk，css，js压缩sourcemap等都没做。
+
 # Vue-Element-Admin
 ![build](https://img.shields.io/travis/rust-lang/rust.svg)
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
